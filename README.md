@@ -1,6 +1,6 @@
 # Desafio FrontEnd Apiki
 
-<h2> Este desafio tem como objetivo te avaliar como desenvolvedor Front-end: JavaScript, HTML, CSS e lógica de programação.</h2>
+<h3> Este desafio tem como objetivo te avaliar como desenvolvedor Front-end: JavaScript, HTML, CSS e lógica de programação.</h3>
 
 <h1>O Desafio</h1>
 
